@@ -1,0 +1,201 @@
+APP,Title,Message,Objective,Location,Instant
+Messages,Friend,Let's meet up when you're free.,Skip your next move,,False
+Messages,Roommate,Grab some snacks from CVS at Blandfrd.,Reach this stop,Blandfrd,False
+Boston Transit,Express Train,Express Train reported near Charles.,Skip the next stop,,True
+Dunkin,Offer,Special deal at Dunkin'!,Continue moving without delay,,False
+Calendar,Reminder,Reminder: meeting at Paul!,Reach this stop,Paul,False
+Dunkin,Freebie,Special deal at Dunkin'!,Continue moving without delay,,False
+Calendar,Reminder,Reminder: meeting at Savin!,Reach this stop,Savin,False
+Messages,Roommate,Let's meet up when you're free.,Skip your next move,,False
+Messages,Colleague,Pick up any supplies you need.,Skip your next move,,False
+Messages,Dad,Pick up any supplies you need.,Skip your next move,,False
+Dunkin,Rewards,Special deal at Dunkin'!,Continue moving without delay,,False
+Calendar,Reminder,Reminder: meeting at Fairbanks!,Reach this stop,Fairbanks,False
+Calendar,Event,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Colleague,Grab some snacks from CVS at Medford.,Reach this stop,Medford,False
+Dunkin,Rewards,Special deal at Dunkin'!,Continue moving without delay,,False
+Dunkin,Special Discount,Special deal at Dunkin' near QuincyAdams!,Visit this spot to continue,QuincyAdams,False
+Boston Transit,Slowdown,Slowdown reported near BackBay.,Move forward by 1 stop for 2 turns,,True
+Calendar,Event,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Boss,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Boston Transit,Delay,Delay reported near Tufts.,Pause for 2 turns,,True
+Messages,Roommate,Let's meet up when you're free.,Skip your next move,,False
+Calendar,Reminder,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Friend,Grab some snacks from Star Market at Hynes.,Reach this stop,Hynes,False
+Dunkin,Rewards,Special deal at Dunkin'!,Continue moving without delay,,False
+Dunkin,Freebie,Special deal at Dunkin'!,Continue moving without delay,,False
+Boston Transit,Delay,Delay reported.,Pause for 2 turns,,True
+Dunkin,Freebie,Special deal at Dunkin' near Copley!,Visit this spot to continue,Copley,False
+Calendar,Alarm,Reminder: meeting at Community!,Reach this stop,Community,False
+Calendar,Reminder,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Friend,Meet me at Bowdoin.,Reach this stop,Bowdoin,False
+Messages,Sister,Pick up supplies from CVS—I'll be waiting.,Visit this stop within 2 turns,Braintree,False
+Boston Transit,Slowdown,Slowdown reported.,Move forward by 1 stop for 2 turns,,True
+Boston Transit,Express Train,Express Train reported.,Skip the next stop,,True
+Boston Transit,Slowdown,Slowdown reported.,Move forward by 1 stop for 2 turns,,True
+Boston Transit,Slowdown,Slowdown reported.,Move forward by 1 stop for 2 turns,,True
+Messages,Roommate,Pick up any supplies you need.,Skip your next move,,False
+Boston Transit,Emergency Stop,Emergency Stop reported.,Stop at your next station,,True
+Dunkin,Rewards,Special deal at Dunkin'!,Continue moving without delay,,False
+Calendar,Event,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Mom,Let's meet up when you're free.,Skip your next move,,False
+Boston Transit,Express Train,Express Train reported.,Skip the next stop,,True
+Boston Transit,Emergency Stop,Emergency Stop reported.,Stop at your next station,,True
+Messages,Boss,Meet me at Cleveland.,Reach this stop,Cleveland,False
+Dunkin,Offer,Special deal at Dunkin'!,Continue moving without delay,,False
+Calendar,Alarm,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Calendar,Event,Reminder: meeting at Airport!,Reach this stop,Airport,False
+Boston Transit,Delay,Delay reported.,Pause for 2 turns,,True
+Messages,Boss,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Calendar,Event,Reminder: meeting at Fairbanks!,Reach this stop,Fairbanks,False
+Boston Transit,Express Train,Express Train reported near Hynes.,Skip the next stop,,True
+Calendar,Reminder,Reminder: meeting at Shawmut!,Reach this stop,Shawmut,False
+Calendar,Alarm,Reminder: meeting at Green!,Reach this stop,Green,False
+Messages,Boss,Let's meet up when you're free.,Skip your next move,,False
+Calendar,Alarm,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Boston Transit,Emergency Stop,Emergency Stop reported.,Stop at your next station,,True
+Calendar,Event,Reminder: meeting at Aquarium!,Reach this stop,Aquarium,False
+Messages,Friend,Pick up supplies from CVS—I'll be waiting.,Visit this stop within 2 turns,Braintree,False
+Boston Transit,Slowdown,Slowdown reported near Wellington.,Move forward by 1 stop for 2 turns,,True
+Dunkin,Offer,Special deal at Dunkin'!,Continue moving without delay,,False
+Dunkin,Special Discount,Special deal at Dunkin'!,Continue moving without delay,,False
+Messages,Sister,Pick up supplies from Target—I'll be waiting.,Visit this stop within 2 turns,Hawes,False
+Boston Transit,Express Train,Express Train reported.,Skip the next stop,,True
+Calendar,Event,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Dunkin,Rewards,Special deal at Dunkin'!,Continue moving without delay,,False
+Messages,Roommate,Let's meet up when you're free.,Skip your next move,,False
+Dunkin,Freebie,Special deal at Dunkin'!,Continue moving without delay,,False
+Boston Transit,Emergency Stop,Emergency Stop reported.,Stop at your next station,,True
+Dunkin,Freebie,Special deal at Dunkin' near Kent!,Visit this spot to continue,Kent,False
+Calendar,Alarm,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Boston Transit,Delay,Delay reported near Beaconsfield.,Pause for 2 turns,,True
+Dunkin,Offer,Special deal at Dunkin'!,Continue moving without delay,,False
+Dunkin,Special Discount,Special deal at Dunkin' near Braintree!,Visit this spot to continue,Braintree,False
+Dunkin,Offer,Special deal at Dunkin' near Blandfrd!,Visit this spot to continue,Blandfrd,False
+Calendar,Alarm,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Colleague,Pick up any supplies you need.,Skip your next move,,False
+Messages,Sister,Pick up any supplies you need.,Skip your next move,,False
+Boston Transit,Delay,Delay reported near Porter.,Pause for 2 turns,,True
+Dunkin,Special Discount,Special deal at Dunkin' near Back!,Visit this spot to continue,Back,False
+Calendar,Alarm,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Boston Transit,Slowdown,Slowdown reported.,Move forward by 1 stop for 2 turns,,True
+Messages,Brother,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Boston Transit,Delay,Delay reported.,Pause for 2 turns,,True
+Dunkin,Special Discount,Special deal at Dunkin' near JFK!,Visit this spot to continue,JFK,False
+Boston Transit,Express Train,Express Train reported near Beaconsfield.,Skip the next stop,,True
+Calendar,Reminder,Reminder: important meeting coming up!,Move 3 stops without switching lines,,False
+Messages,Friend,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Messages,Dad,Meet me at Kendall.,Reach this stop,Kendall,False
+Boston Transit,Delay,Delay reported near Centre.,Pause for 2 turns,,True
+Boston Transit,Delay,Delay reported near BackBay.,Pause for 2 turns,,True
+Boston Transit,Emergency Stop,Emergency Stop reported near Riverside.,Stop at your next station,,True
+Messages,Friend,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Messages,Boss,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Dunkin,Offer,Special deal at Dunkin' near Woodland!,Visit this spot to continue,Woodland,False
+Messages,Roommate,Meet me at Paul.,Reach this stop,Paul,False
+Boston Transit,Express Train,Express Train reported.,Skip the next stop,,True
+Messages,Roommate,Let's meet up when you're free.,Skip your next move,,False
+Messages,Dad,Meet me at GovtCenter.,Reach this stop,GovtCenter,False
+Dunkin,Rewards,Special deal at Dunkin' near JFK!,Visit this spot to continue,JFK,False
+Messages,Brother,Grab some snacks for the trip.,Move forward by 2 stops,,False
+Messages,Colleague,Pick up any supplies you need.,Skip your next move,,False
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Dunkin,Rewards,Quick break? Dunkin' has new specials!,,,True
+Dunkin,Special Discount,Quick break? Dunkin' has new specials!,,,True
+Messages,Dad,"Moving around a lot today, stay in touch.",,,True
+Boston Transit,Emergency Stop,Minor emergency stop expected—travel carefully.,,,True
+Messages,Dad,Hope your first day is great!,,,True
+Boston Transit,Slowdown,Minor slowdown expected—travel carefully.,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Dunkin,Special Discount,Quick break? Dunkin' has new specials!,,,True
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Boston Transit,Emergency Stop,Minor emergency stop expected—travel carefully.,,,True
+Dunkin,Offer,Quick break? Dunkin' has new specials!,,,True
+Boston Transit,Slowdown,Minor slowdown expected—travel carefully.,,,True
+Boston Transit,Emergency Stop,Minor emergency stop expected—travel carefully.,,,True
+Dunkin,Offer,Quick break? Dunkin' has new specials!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Dunkin,Offer,Quick break? Dunkin' has new specials!,,,True
+Dunkin,Special Discount,Quick break? Dunkin' has new specials!,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Messages,Roommate,Good luck with everything!,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Dunkin,Special Discount,Quick break? Dunkin' has new specials!,,,True
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Messages,Mom,Just saying hi—hope you're doing well.,,,True
+Messages,Brother,Found a cool place to check out soon.,,,True
+Messages,Roommate,Hope your first day is great!,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Boston Transit,Slowdown,Minor slowdown expected—travel carefully.,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Dunkin,Rewards,Quick break? Dunkin' has new specials!,,,True
+Boston Transit,Slowdown,Minor slowdown expected—travel carefully.,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Boston Transit,Delay,Minor delay expected—travel carefully.,,,True
+Messages,Boss,Hope your first day is great!,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Dunkin,Offer,Quick break? Dunkin' has new specials!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Dunkin,Rewards,Quick break? Dunkin' has new specials!,,,True
+Messages,Boss,Good luck with everything!,,,True
+Dunkin,Offer,Quick break? Dunkin' has new specials!,,,True
+Boston Transit,Delay,Minor delay expected—travel carefully.,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Messages,Dad,Good luck with everything!,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Messages,Roommate,Just saying hi—hope you're doing well.,,,True
+Messages,Sister,Just saying hi—hope you're doing well.,,,True
+Messages,Sister,Hope your first day is great!,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Messages,Mom,Found a cool place to check out soon.,,,True
+Messages,Sister,Found a cool place to check out soon.,,,True
+Boston Transit,Slowdown,Minor slowdown expected—travel carefully.,,,True
+Boston Transit,Emergency Stop,Minor emergency stop expected—travel carefully.,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Dunkin,Special Discount,Quick break? Dunkin' has new specials!,,,True
+Messages,Colleague,"Moving around a lot today, stay in touch.",,,True
+Dunkin,Offer,Quick break? Dunkin' has new specials!,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Boston Transit,Slowdown,Minor slowdown expected—travel carefully.,,,True
+Messages,Colleague,Good luck with everything!,,,True
+Messages,Colleague,Hope your first day is great!,,,True
+Messages,Boss,"Moving around a lot today, stay in touch.",,,True
+Messages,Roommate,Found a cool place to check out soon.,,,True
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Dunkin,Rewards,Quick break? Dunkin' has new specials!,,,True
+Dunkin,Special Discount,Quick break? Dunkin' has new specials!,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Messages,Roommate,Just saying hi—hope you're doing well.,,,True
+Calendar,Event,Upcoming reminder—stay on track!,,,True
+Messages,Colleague,Found a cool place to check out soon.,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Messages,Mom,Hope your first day is great!,,,True
+Calendar,Alarm,Upcoming reminder—stay on track!,,,True
+Dunkin,Rewards,Quick break? Dunkin' has new specials!,,,True
+Messages,Sister,Found a cool place to check out soon.,,,True
+Calendar,Reminder,Upcoming reminder—stay on track!,,,True
+Dunkin,Rewards,Quick break? Dunkin' has new specials!,,,True
+Dunkin,Freebie,Quick break? Dunkin' has new specials!,,,True
+Messages,Colleague,Good luck with everything!,,,True
+Messages,Dad,Just saying hi—hope you're doing well.,,,True
+Boston Transit,Express Train,Minor express train expected—travel carefully.,,,True
+Boston Transit,Emergency Stop,Minor emergency stop expected—travel carefully.,,,True

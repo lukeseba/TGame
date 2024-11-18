@@ -1,0 +1,4 @@
+APP,Title,Message,Objective,Location,Instant
+Messages,Friend,Let's meet up when you're free.,Skip your next move,,False
+Messages,Roommate,Grab some snacks from CVS at Blandfrd.,Reach this stop,Blandfrd,False
+Boston Transit,Express Train,Express Train reported near Charles.,Skip the next stop,,True
