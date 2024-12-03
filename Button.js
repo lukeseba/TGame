@@ -28,7 +28,8 @@ class Button {
     this.txtSize = min(this.w/1.3/txtW, this.h/1.3/txtH)
     textSize(this.txtSize)
   }
-  update() {
+  update(yOffset) {
+    this.y += yOffset
     if (mouseIsPressed && !this.hovering) {
       this.mouseDown = true
     } else if (!mouseIsPressed) {
@@ -65,8 +66,10 @@ class Button {
       this.h = lerp(this.h, this.defaultH,
                    this.hoverAnimSpeed/200)
     }
+    this.y -= yOffset
   }
-  render() {
+  render(yOffset) {
+    this.y+=yOffset
     rectMode(CENTER)
     strokeWeight(1)
     stroke(this.outlineClr)
@@ -101,6 +104,7 @@ class Button {
     noStroke()
     fill(this.txtclr)
     text(this.txt, this.x, this.y)
+    this.y-=yOffset
   }
   drawShape(x, y, w, h, r) {
     if (this.shape == "ellipse") {

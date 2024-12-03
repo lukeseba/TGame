@@ -1,0 +1,160 @@
+APP,Title,Message,Objective,Location,Instant
+Messages,Mom,Can you pick up a pencil from Star Marktet?,Land on one of these stops:,Medford Shawmut Orient,FALSE
+Messages,DAD,Can you pick up groceries from Target?,Land on one of these stops:,Fenway,FALSE
+Dunkin,Rewards Notification,Pick up your Free Dunkin Coffee for today!,Land on one of these stops:,MassAve South Roxbury,FALSE
+Messages,Alert,You are late for your concert at symphony orchestra!,Land on this stop:,Symphony,FALSE
+Messages,Friend,Hey want to meet up to grab coffee?,Land on this stop:,Harvard Arlington JFK,FALSE
+Messages,Friend,Hurry your going to miss the game at BC,Land on this stop:,Boston,FALSE
+Messages,Promotion,Limited Edition Happy Meal,Land on this stop:,Allston Maverick Fields,FALSE
+Messages,Promotion,Limited Edition Burrito for $3!,Land on this stop: ,Amory Downtown Wellington,FALSE
+Messages,Promotion,Limited time $6 Chipotle Bowl!,Land on this stop: ,Copley,FALSE
+Messages,Roommate,"We're out of toilet paper, can you stop by CVS?",Land on this stop: ,Tufts Brookline Coolidge,TRUE
+Messages,FindMy,Your device has been left behind,Go back a stop,,TRUE
+Boston Transit,T Delay,Your line is delayed,Everyone on the line skip a turn,,FALSE
+Boston Transit,T Delay,Your line has backed up,Everyone on the line go back two stops,,TRUE
+Messages,Friend,"I got you a lobster for dinner, stop by to pick it up!",Land on this stop: ,Boston Central,FALSE
+Messages,Friend,"I'm at Canes, do you want to meet up? ",Land on this stop,Babcock,FALSE
+Dunkin,Promotion,"Limited time, free mug!",Skip next turn ,,FALSE
+Boston Transit,Express Train,The T is now express!,Move 5 stops,,TRUE
+Messages,Friend,"There's a clothing sale near by this station, join me!",Skip next turn ,,FALSE
+Messages,Mom,"We're ut of strawerry jam, can you stop by Wholefoods?",Land on this stop:,"Heath GovtCenter Central
+",FALSE
+Messages,Friend,Why aren't you reading your text? Did you fall asleep? Wake up!,Move back two stops,,TRUE
+Messages,FindMy,Your airtag has been left behind,Move back three stops,,TRUE
+Boston Transit,T Delay,The T crashed!,Everyone on the line skip a turn,,FALSE
+Boston Transit,T Delay,The T is crowded,Everyone on the line skip a turn,,FALSE
+Boston Transit,T Delay,The station is on construction and is closed,Move back a stop,,TRUE
+Messages,Friend,"I saw your location, I'm near by, let me join you!",Move back a stop,,TRUE
+Messages,Dad,"I'm here to visit you at, pick me up at the airport",Land on this stop:,Airport,FALSE
+Messages,Friend,"I got a free aquarium ticket from school, let's go together",Land on this stop:,Aquarium,FALSE
+Messages,promotion,There's a flee market at haymarket right now,Land on this stop,Haymarket,FALSE
+Messages,Volunteer site,Can you come to this meeting right now?,Land on this stop,North,FALSE
+Messages,Friend,"We're all at Tufts, do you wanna join?",Land on this stop,Tufts,FALSE
+Messages,Friend,Do you wanna go to MIT frat together?,Land on this stop,Kendall,FALSE
+Messages ,Friend,Do you want to study at my library together?,Land on this stop,Harvard,FALSE
+Messages,Friend,The pasta's are only $3 for today at Quincy!,Land on this stop,Quincy,FALSE
+Messages,Friend,Do you wanna meet up at Stony Brook right now?,Land on this stop,Stony,FALSE
+Boston Transit,Notification,Changing line is faster,Change line as soon as you can,,FALSE
+Messages,MFA,Dali Exhibition only for tonight,Land on this stop,Museum,FALSE
+Messages,Friend,Good Morning!,,,TRUE
+Messages,Friend,Good Afternoon,,,TRUE
+Messages,Friend,How was your day,,,TRUE
+Messages,Friend,How's your day going,,,TRUE
+Messages,Friend,Did you get your grade back?,,,TRUE
+Messages,Friend,Do you know if gym is closed today?,,,TRUE
+Messages,Friend,TruFru front of Marino right now!,,,TRUE
+Messages,Friend,The weather is nice today,,,TRUE
+Messages,Friend,The dining hall food was so good,,,TRUE
+Messages,Friend,I just got a job!,,,TRUE
+Messages,Friend,I miss you,,,TRUE
+Messages,Friend,I have a crazy story to tell you ,,,TRUE
+Messages,Pledgemaster,I need you to film a tiktok NOW!,Land on one of these stops,Ruggles Northeastern,TRUE
+Messages,Roommate,Let me know when you're coming home,,,TRUE
+Messages,Roommate,I have friends over right now,,,TRUE
+Messages,Dad,I miss you,,,TRUE
+Messages,Dad,We had smores today,,,TRUE
+Messages,Dad,We went camping today,,,TRUE
+Messages,Dad,We'll visit soon,,,TRUE
+Messages,Dad,When are you coming home?,,,TRUE
+Messages,Dad,When's your break?,,,TRUE
+Messages,Dad,Do you need more money?,,,TRUE
+Messages,Mom,I miss you,,,TRUE
+Messages,Mom,Let me know what you want to eat at home,,,TRUE
+Messages,Mom,Have a nice day,,,TRUE
+Messages,Mom,Good morning!,,,TRUE
+Messages,Mom,Good night,,,TRUE
+Messages,Mom,How's school?,,,TRUE
+Messages,Mom,How are your classes?,,,TRUE
+Messages,Mom,Don't skip meal,,,TRUE
+Messages,Mom,What do you want for your birthday?,,,TRUE
+Messages,Design,Your grade has been updated,,,TRUE
+Messages,Design,Your grade has been changed,,,TRUE
+Calendar,Design,Your assignment is due tomorrow,,,TRUE
+Messages,Design,New assignment is posted,,,TRUE
+Messages,Design,Someone replied to your discussion,,,TRUE
+Messages,Design,Your instructor has posted an announcement,,,TRUE
+Messages,Design,The class is cancelled,,,TRUE
+Messages,Design,Your instructor left a comment,,,TRUE
+Messages,Design,Your assignment has been graded,,,TRUE
+Messages,Housing,Sign up for Husky Chat,,,TRUE
+Messages,Housing,Do roommate agreement,,,TRUE
+Messages,Housing,Throw out food in the basement,,,TRUE
+Messages,Housing,Is anyone interested in RA?,,,TRUE
+Dunkin,Notification,You now have 430 points,,,TRUE
+Dunkin,Notification,New seaonal menu coming soon,,,TRUE
+Dunkin,Notification,You have $2 left in your card,,,TRUE
+Messages,Notification,This person has  requested to be freinds with you,,,TRUE
+Messages,Noticiation,Your friend has just posted a BeReal,,,TRUE
+Messages,Notification,Time to BeReal!,,,TRUE
+Messages,Announcement,Class has been canceled,,,TRUE
+Messages,Annoucement,Reminder that the project is due next week!,,,TRUE
+Messages,Roommate,Let me know when you're coming home,,,TRUE
+Messages,Roommate,I have friends over right now,,,TRUE
+Messages,Dad,I miss you,,,TRUE
+Messages,Dad,We had smores today,,,TRUE
+Messages,Dad,We went camping today,,,TRUE
+Messages,Dad,We'll visit soon,,,TRUE
+Messages,Dad,When are you coming home?,,,TRUE
+Messages,Dad,When's your break?,,,TRUE
+Messages,Dad,Do you need more money?,,,TRUE
+Messages,Mom,I miss you,,,TRUE
+Messages,Mom,Let me know what you want to eat at home,,,TRUE
+Messages,Mom,Have a nice day,,,TRUE
+Messages,Mom,Good morning!,,,TRUE
+Messages,Mom,Good night,,,TRUE
+Messages,Mom,How's school?,,,TRUE
+Messages,Mom,How are your classes?,,,TRUE
+Messages,Mom,Don't skip meal,,,TRUE
+Messages,Mom,What do you want for your birthday?,,,TRUE
+Messages,friend,Your grade has been updated,,,TRUE
+Messages,Canvas,Your grade has been changed,,,TRUE
+Calendar,Canvas,Your assignment is due tomorrow,,,TRUE
+Messages,Canvas,New assignment is posted,,,TRUE
+Messages,Canvas,Someone replied to your discussion,,,TRUE
+Messages,friend,Your instructor has posted an announcement,,,TRUE
+Calendar,Canvas,The class is cancelled,,,TRUE
+Messages,Canvas,Your instructor left a comment,,,TRUE
+Messages,Canvas,Your assignment has been graded,,,TRUE
+Messages,Housing,Sign up for Husky Chat,,,TRUE
+Calendar,Agreement,Do roommate agreement,,,TRUE
+Messages,Housing,Throw out food in the basement,,,TRUE
+Messages,Housing,Is anyone interested in RA?,,,TRUE
+Dunkin,Notification,You now have 430 points,,,TRUE
+Dunkin,Notification,New seaonal menu coming soon,,,TRUE
+Dunkin,Notification,You have $2 left in your card,,,TRUE
+Messages,friend,Class has been canceled,,,TRUE
+Messages,friend,Reminder that the project is due next week!,,,TRUE
+Boston Transit,Super Express Train,You are on one of our new Super Express Trains!,Move forward to the next junction,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 5 stops,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 4 stops,,TRUE
+Boston Transit,Express Line,"For a limited time, this line will be express!",Move 2 stops per turn until you reach a junction,,FALSE
+Boston Transit,Express Line,"For a limited time, this line will be express!",Move 3 stops per turn until you reach a junction,,FALSE
+Boston Transit,Express Train,You are on an express train.,Move forward 3 stops,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 2 stops,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 5 stops,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 4 stops,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 3 stops,,TRUE
+Boston Transit,Express Train,You are on an express train.,Move forward 2 stops,,TRUE
+Boston Transit,Forgot to brake!,"Apologies, we accidentally went one stop too far",Move an extra stop,,TRUE
+Boston Transit,Runaway Train,This train won't stop!,Move to the end of your line,,TRUE
+Boston Transit,Moving too fast,We accidentally went too far!,Move an extra stop,,TRUE
+Boston Transit,Wrong Train,"We sent the wrong train, sorry for the inconvenience!",Move directly to,JFK,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,North,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,Haymarket,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,GovtCenter,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,State,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,Park,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,Downtown,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,Copley,TRUE
+Boston Transit,Wrong Train,We sent the wrong train -- apologies!,Move directly to,Kenmore,TRUE
+Boston Transit,Slowdown,Your train is slowed down,Move every other turn for 4 turns,,FALSE
+Boston Transit,Slowdown,Your train is slowed down,Move every other turn for 4 turns,,FALSE
+Boston Transit,Delay,Your train is experiencing a delay,Skip your next turn.,,FALSE
+Boston Transit,Delay,Your train is experiencing a delay,Skip your next turn.,,FALSE
+Messages,Pizza Hut,u up?,,,TRUE
+Boston Transit,Uh oh...,Your train is in reverse!,Backtrack 3 moves,,TRUE
+Boston Transit,Pileup,Our trains are experiencing a pileup,"Everyone on this line, move to one end of it",,TRUE
+Calendar,Lunch,Get lunch with Joe!,Travel to,Sutherland,FALSE
+Calendar,Lunch,Get a snack with Grace!,Travel to,Wollaston,FALSE
+Calendar,Shopping,Don't forget the necessities!,Go to any of these ,Hynes Wood Jackson,FALSE
+Calendar,Orientation Event,Off-campus orientation event,Go to this stop,Brigham,FALSE
