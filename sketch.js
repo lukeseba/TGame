@@ -1,22 +1,22 @@
 let appName, header, message, objective, destination, yOffset, screenHeight
 
 function preload() {
-  base = loadImage('/assets/base.png');
-  backgroundGradient = loadImage('/assets/background-gradient.png');
-  notiCard = loadImage('/assets/notiCard.png');
-  notiCardTint = loadImage('/assets/notiCardNoTransp.png');
+  base = loadImage('/../assets/base.png');
+  backgroundGradient = loadImage('/../assets/background-gradient.png');
+  notiCard = loadImage('/../assets/notiCard.png');
+  notiCardTint = loadImage('/../assets/notiCardNoTransp.png');
   
-  messagesIcon = loadImage('/assets/Messages.png');
-  bostonTIcon = loadImage('/assets/bostonT.png');
-  dunkinIcon = loadImage('/assets/dunkin.png');
-  calendarIcon = loadImage('/assets/calendar.png');
+  messagesIcon = loadImage('/../assets/Messages.png');
+  bostonTIcon = loadImage('/../assets/bostonT.png');
+  dunkinIcon = loadImage('/../assets/dunkin.png');
+  calendarIcon = loadImage('/../assets/calendar.png');
   
-  alexandriaFont = loadFont('/assets/alexandria.ttf')
-  alexandriaSemiBoldFont = loadFont('/assets/alexandria-semi-bold.ttf')
-  alexandriaLightFont = loadFont('/assets/alexandria-light.ttf')
-  alexandriaMediumFont = loadFont('/assets/alexandria-medium.ttf')
+  alexandriaFont = loadFont('/../assets/alexandria.ttf')
+  alexandriaSemiBoldFont = loadFont('/../assets/alexandria-semi-bold.ttf')
+  alexandriaLightFont = loadFont('/../assets/alexandria-light.ttf')
+  alexandriaMediumFont = loadFont('/../assets/alexandria-medium.ttf')
   
-  cardTable = loadTable('/data/cardsNewer.csv', "csv", "header")
+  cardTable = loadTable('/../data/cardsNewer.csv', "csv", "header")
 }
 
 function setup() {
